@@ -1,4 +1,4 @@
 ## This is a full page carousel with transparent navbar, made using react JS.
 ### Carousel and Navbar both are responsive.
-![preview](md.jpg)
-![preview](sm.jpg)
+![preview](md.JPG)
+![preview](sm.JPG)
