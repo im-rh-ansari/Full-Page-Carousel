@@ -1,0 +1,29 @@
+{
+  "name": "assignment1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-regular-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.11",
+    "bootstrap": "^4.5.1",
+    "mdbreact": "^4.27.0",
+    "react": "^16.13.1",
+    "react-avatar": "^3.9.7",
+    "react-bootstrap-sidebar": "^0.0.1",
+    "react-dom": "^16.13.1",
+    "react-popper": "^2.2.3",
+    "react-pro-sidebar": "^0.4.3",
+    "react-responsive-carousel": "^3.2.10",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^8.5.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
